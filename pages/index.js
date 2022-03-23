@@ -23,44 +23,44 @@ export default function Home() {
         </p> */}
 
         <h1>NLP</h1>
-        <a href="https://wiredelta.com/how-was-grammarly-developed/" target="_blank" rel="noopener noreferrer">The History of Grammarly</a>
-        <a href="https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv" target="_blank" rel="noopener noreferrer">Stanford University lectures</a>
-        <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank" rel="noopener noreferrer">Stanford University lecture resources</a>
-        <a href="https://www.coursera.org/specializations/natural-language-processing#courses" target="_blank" rel="noopener noreferrer">Coursera NLP courses</a>
-        <a href="https://www.youtube.com/watch?v=xvqsFTUsOmc" target="_blank" rel="noopener noreferrer">NLP in Python</a>
-        <a href="https://www.youtube.com/playlist?list=PLGTJdqDBAxoyyxKqcS9b0A89NRXZxfK5i" target="_blank" rel="noopener noreferrer">NLP Series</a>
-        <a href="https://nlpprogress.com/" target="_blank" rel="noopener noreferrer">NLP-progress : Repo to track the progress in NLP</a>
+        <a href="https://wiredelta.com/how-was-grammarly-developed/" target="_blank" rel="noopener noreferrer">1. The History of Grammarly</a>
+        <a href="https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv" target="_blank" rel="noopener noreferrer">2. Stanford University lectures</a>
+        <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank" rel="noopener noreferrer">3. Stanford University lecture resources</a>
+        <a href="https://www.coursera.org/specializations/natural-language-processing#courses" target="_blank" rel="noopener noreferrer">4. Coursera NLP courses</a>
+        <a href="https://www.youtube.com/watch?v=xvqsFTUsOmc" target="_blank" rel="noopener noreferrer">5. NLP in Python</a>
+        <a href="https://www.youtube.com/playlist?list=PLGTJdqDBAxoyyxKqcS9b0A89NRXZxfK5i" target="_blank" rel="noopener noreferrer">6. NLP Series</a>
+        <a href="https://nlpprogress.com/" target="_blank" rel="noopener noreferrer">7. NLP-progress : Repo to track the progress in NLP</a>
 
         <h1>Machine Learning Basics</h1>
-        <a href="https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9" target="_blank" rel="noopener noreferrer">Different mlmodel file types</a>
-        <a href="https://wiredelta.com/simple-guide-to-machine-learning-and-ai/" target="_blank" rel="noopener noreferrer">Simple Guide to Machine Learning and AI</a>
-        <a href="https://wiredelta.com/should-we-fear-or-embrace-ai/" target="_blank" rel="noopener noreferrer">ML vs AI</a>
+        <a href="https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9" target="_blank" rel="noopener noreferrer">1. Different mlmodel file types</a>
+        <a href="https://wiredelta.com/simple-guide-to-machine-learning-and-ai/" target="_blank" rel="noopener noreferrer">2. Simple Guide to Machine Learning and AI</a>
+        <a href="https://wiredelta.com/should-we-fear-or-embrace-ai/" target="_blank" rel="noopener noreferrer">3. ML vs AI</a>
 
         <h1>BERT Language Model</h1>
-        <a href="https://github.com/google-research/bert" target="_blank" rel="noopener noreferrer">Officeial BERT Repo with research paper</a>
-        <a href="https://en.wikipedia.org/wiki/BERT_(language_model)" target="_blank" rel="noopener noreferrer">Wikipedia - BERT</a>
-        <a href="https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model" target="_blank" rel="noopener noreferrer">Explanation of BERT</a>
-        <a href="https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/" target="_blank" rel="noopener noreferrer">A very good article on BERT</a>
-        <a href="https://www.geeksforgeeks.org/explanation-of-bert-model-nlp/" target="_blank" rel="noopener noreferrer">Explanation of BERT - Geeksforgeeks</a>
-        <a href="https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/" target="_blank" rel="noopener noreferrer">Word Embedding</a>
-        <a href="https://medium.com/@samia.khalid/bert-explained-a-complete-guide-with-theory-and-tutorial-3ac9ebc8fa7c" target="_blank" rel="noopener noreferrer">Explanation of BERT</a>
-        <a href="https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/?utm_source=blog&utm_medium=demystifying-bert-groundbreaking-nlp-framework" target="_blank" rel="noopener noreferrer">Explanation of Transformers</a>
-        <a href="https://www.analyticsvidhya.com/blog/2019/07/pytorch-transformers-nlp-python/?utm_source=blog&utm_medium=demystifying-bert-groundbreaking-nlp-framework" target="_blank" rel="noopener noreferrer">Introduction to PyTorch-Transformers: An Incredible Library for State-of-the-Art NLP</a>
-        <a href="https://www.analyticsvidhya.com/blog/2017/12/introduction-computational-linguistics-dependency-trees/?utm_source=blog&utm_medium=demystifying-bert-groundbreaking-nlp-framework" target="_blank" rel="noopener noreferrer">Introduction to Computational Linguistics and Dependency Trees in data science</a>
-        <a href="https://github.com/hanxiao/bert-as-service" target="_blank" rel="noopener noreferrer">BERT as a service</a>
+        <a href="https://github.com/google-research/bert" target="_blank" rel="noopener noreferrer">1. Officeial BERT Repo with research paper</a>
+        <a href="https://en.wikipedia.org/wiki/BERT_(language_model)" target="_blank" rel="noopener noreferrer">2. Wikipedia - BERT</a>
+        <a href="https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model" target="_blank" rel="noopener noreferrer">3. Explanation of BERT</a>
+        <a href="https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/" target="_blank" rel="noopener noreferrer">4. A very good article on BERT</a>
+        <a href="https://www.geeksforgeeks.org/explanation-of-bert-model-nlp/" target="_blank" rel="noopener noreferrer">5. Explanation of BERT - Geeksforgeeks</a>
+        <a href="https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/" target="_blank" rel="noopener noreferrer">6. Word Embedding</a>
+        <a href="https://medium.com/@samia.khalid/bert-explained-a-complete-guide-with-theory-and-tutorial-3ac9ebc8fa7c" target="_blank" rel="noopener noreferrer">7. Explanation of BERT</a>
+        <a href="https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/?utm_source=blog&utm_medium=demystifying-bert-groundbreaking-nlp-framework" target="_blank" rel="noopener noreferrer">8. Explanation of Transformers</a>
+        <a href="https://www.analyticsvidhya.com/blog/2019/07/pytorch-transformers-nlp-python/?utm_source=blog&utm_medium=demystifying-bert-groundbreaking-nlp-framework" target="_blank" rel="noopener noreferrer">9. Introduction to PyTorch-Transformers: An Incredible Library for State-of-the-Art NLP</a>
+        <a href="https://www.analyticsvidhya.com/blog/2017/12/introduction-computational-linguistics-dependency-trees/?utm_source=blog&utm_medium=demystifying-bert-groundbreaking-nlp-framework" target="_blank" rel="noopener noreferrer">10. Introduction to Computational Linguistics and Dependency Trees in data science</a>
+        <a href="https://github.com/hanxiao/bert-as-service" target="_blank" rel="noopener noreferrer">11. BERT as a service</a>
         <a href="" target="_blank" rel="noopener noreferrer"></a>
 
         <h1>T5 Language Model</h1>
-        <a href="https://github.com/google-research/text-to-text-transfer-transformer" target="_blank" rel="noopener noreferrer">Official T5 Repo with research paper</a>
-        <a href="https://huggingface.co/docs/transformers/model_doc/t5" target="_blank" rel="noopener noreferrer">Hugging Face</a>
-        <a href="https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html" target="_blank" rel="noopener noreferrer">Google AI Blog</a>
-        <a href="https://towardsdatascience.com/t5-text-to-text-transfer-transformer-643f89e8905e" target="_blank" rel="noopener noreferrer">Explanation of T5</a>
-        <a href="https://medium.com/syncedreview/google-t5-explores-the-limits-of-transfer-learning-a87afbf2615b" target="_blank" rel="noopener noreferrer">Explanation of T5</a>
+        <a href="https://github.com/google-research/text-to-text-transfer-transformer" target="_blank" rel="noopener noreferrer">1. Official T5 Repo with research paper</a>
+        <a href="https://huggingface.co/docs/transformers/model_doc/t5" target="_blank" rel="noopener noreferrer">2. Hugging Face</a>
+        <a href="https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html" target="_blank" rel="noopener noreferrer">3. Google AI Blog</a>
+        <a href="https://towardsdatascience.com/t5-text-to-text-transfer-transformer-643f89e8905e" target="_blank" rel="noopener noreferrer">4. Explanation of T5</a>
+        <a href="https://medium.com/syncedreview/google-t5-explores-the-limits-of-transfer-learning-a87afbf2615b" target="_blank" rel="noopener noreferrer">5. Explanation of T5</a>
         
 
         <h1>Dataset</h1>
-        <a href="https://github.com/google-research-datasets/C4_200M-synthetic-dataset-for-grammatical-error-correction" target="_blank" rel="noopener noreferrer">C4 200M dataset for GEC</a>
-        <a href="https://gluebenchmark.com/leaderboard" target="_blank" rel="noopener noreferrer">GLUE Benchmark Leaderboard</a>
+        <a href="https://github.com/google-research-datasets/C4_200M-synthetic-dataset-for-grammatical-error-correction" target="_blank" rel="noopener noreferrer">1. C4 200M dataset for GEC</a>
+        <a href="https://gluebenchmark.com/leaderboard" target="_blank" rel="noopener noreferrer">2. GLUE Benchmark Leaderboard</a>
 
         {/* <a href="" target="_blank" rel="noopener noreferrer"></a> */}
 
